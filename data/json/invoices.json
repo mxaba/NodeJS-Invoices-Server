@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "dateTime": "2022-09-18T02:10:10Z",
+    "paymentType": "Card",
+    "currency": "R",
+    "refNo": "#1",
+    "customerId": 1
+  },
+  {
+    "id": 2,
+    "dateTime": "2022-09-15T02:10:10Z",
+    "paymentType": "Cash",
+    "currency": "R",
+    "refNo": "#2",
+    "customerId": 2
+  },
+  {
+    "id": 3,
+    "dateTime": "2022-09-10T02:10:10Z",
+    "paymentType": "Card",
+    "currency": "R",
+    "refNo": "#3",
+    "customerId": 3
+  }
+]

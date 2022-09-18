@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "invoiceId": [2, 1, 3],
+    "category": "Housing",
+    "name": "Big Bang Couches",
+    "price": "3 500",
+    "code": "#300"
+  },
+  {
+    "id": 2,
+    "invoiceId": [2, 1, 3],
+    "category": "Housing",
+    "name": "Samsung Brand TV",
+    "price": "12 300",
+    "code": "#123"
+  },
+  {
+    "id": 3,
+    "invoiceId": [2, 1, 3],
+    "category": "Electronics",
+    "name": "TV Cables",
+    "price": "150.54",
+    "code": "#150"
+  }
+]

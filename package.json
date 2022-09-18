@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-invoices-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.16.3",
+    "swagger-model-validator": "^3.0.21",
+    "swagger-ui-express": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "nodemon": "nodemon"
+  },
+  "keywords": [],
+  "description": ""
+}
